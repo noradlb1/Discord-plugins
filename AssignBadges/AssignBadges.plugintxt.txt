@@ -1,0 +1,1 @@
+Allows you to locally assign badges to users through the user context menu.

@@ -1,0 +1,3 @@
+This is the repo for Zere's Plugin Library for BetterDiscord. For now this is only for BBD/BDv1 You can follow development here. There will be more info and shit to come, but for now here ya go.
+
+Library Documentation

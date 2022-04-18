@@ -1,0 +1,29 @@
+Reply to people using their ID with a button. Inspired by Replyer by @Hammmock#3110, @Natsulus#0001 & @Zerebos#7790.
+
+BetterFolders v2.3.0 (Updated: 18/11/20)
+Add new functionality to server folders. Current Features:
+
+Custom Folder Icons
+Close other folders on open
+OnlineFriendCount v1.4.0 (Updated: 18/11/20)
+Add the old online friend count back to guild list. Because nostalgia.
+
+VoiceEvents v1.3.4 (Updated: 23/02/21)
+Add TTS Event Notifications to your selected Voice Channel. TeamSpeak feeling.
+
+Emulator 1.1.0 (Updated: 17/02/20)
+Emulate Windows, MacOS, Linux or Browser on any platform. WARNING: Emulating a different platform may cause unwanted side effects. Use at own risk.
+
+VoiceCount v0.1.0 (Updated: 18/04/20)
+Add a user count to all voice channels.
+
+BetterVolume v0.1.0 (Updated: 03/09/20)
+Set user volume values manually instead of using a limited slider.
+
+HypeSquadCheatsheet v0.1.0 (Updated: 27/12/19)
+Display the resulting HypeSquad house next to the questions in the HypeSquad questions modal.
+
+
+
+BDV2 (/v2)
+WARNING: Plugins for v2 are still experimental. Use with caution!

@@ -1,0 +1,3 @@
+Allows you to save Custom Statuses as Quick Select
+
+Status Modal:

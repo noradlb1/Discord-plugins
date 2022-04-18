@@ -1,0 +1,1 @@
+This plugin shows the avatars of the users who reacted to a message.

@@ -1,0 +1,3 @@
+Allows you to replace the native Sounds with custom Sounds
+
+Add Sound:

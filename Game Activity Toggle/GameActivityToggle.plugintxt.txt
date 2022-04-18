@@ -1,0 +1,2 @@
+Adds a Quick-Toggle Game Activity Button
+

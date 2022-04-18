@@ -1,0 +1,1 @@
+Allows you to play Discord's Activity Games (Such as watching YouTube together and Chess) with friends in voice chats.

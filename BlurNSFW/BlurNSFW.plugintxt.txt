@@ -1,0 +1,1 @@
+Blurs images in NSFW channels until you hover over it.

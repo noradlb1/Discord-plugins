@@ -1,0 +1,3 @@
+Double click a Discord message to quickly edit it. Inspired by and new/updated version of Jiiks' original.
+
+As a new addition there is now a double click to reply, as requested. See the plugin settings to enable it.

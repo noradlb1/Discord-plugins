@@ -1,0 +1,3 @@
+Shows avatars of typing users.
+
+CSS provided by David.

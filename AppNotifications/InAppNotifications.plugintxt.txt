@@ -1,0 +1,1 @@
+Displays notifications such as new messages, friends added in Discord.

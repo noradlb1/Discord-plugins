@@ -1,0 +1,1 @@
+Adds extra Controls to the Friends Page, for example sort by Name/Status, Search and All/Request/Blocked Amount

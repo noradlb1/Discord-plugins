@@ -1,0 +1,3 @@
+Adds a Spell Check to all Message Inputs
+
+Typo:

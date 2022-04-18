@@ -1,0 +1,2 @@
+Allows you to download all Themes from BD's Website within Discord
+

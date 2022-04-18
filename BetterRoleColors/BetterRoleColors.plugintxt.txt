@@ -1,0 +1,16 @@
+Adds server-based role colors to typing, voice, popouts, modals and more!
+
+Mentions
+Now you can optionally color mentions for users to match their roles in the server.
+
+Account Status
+You can also optionally have your account status at the bottom match your role in the current server.
+
+Features
+Colored Typing
+Colors the typing notification to match the user's role in that server.
+
+Typing
+
+Colored Voice
+Colors the names in voice chat to match their roles.

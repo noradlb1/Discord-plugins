@@ -1,0 +1,3 @@
+Displays Badges (Nitro, Hypesquad, etc...) in the Chat/MemberList/DMList
+
+Chat:

@@ -1,0 +1,1 @@
+Adds user status everywhere Discord doesn't.

@@ -1,0 +1,3 @@
+Adds a Clear Button to the Server List and the Mentions Popout
+
+Server List Button:

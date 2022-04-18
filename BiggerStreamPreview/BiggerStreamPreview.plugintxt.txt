@@ -1,0 +1,1 @@
+This plugin adds a button in the context menu to see bigger stream previews.

@@ -1,0 +1,1 @@
+Adds indicators for every platform that the user is using. Source code availble on the ./src folder.

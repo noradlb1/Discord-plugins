@@ -1,0 +1,1 @@
+Adds a Control Panel while listening to Spotify on a connected Account

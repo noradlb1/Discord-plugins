@@ -1,0 +1,3 @@
+Adds a Character Counter to most Inputs
+
+Message Input:

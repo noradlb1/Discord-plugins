@@ -1,0 +1,3 @@
+Automatically starts a custom Rich Presence application when you start Discord. Now with support for multiple rich presence profiles!
+
+Donate:

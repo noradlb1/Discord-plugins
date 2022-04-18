@@ -1,0 +1,1 @@
+Allows you to change Theme Variables within Discord

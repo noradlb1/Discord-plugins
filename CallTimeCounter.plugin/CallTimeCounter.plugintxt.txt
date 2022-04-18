@@ -1,0 +1,3 @@
+Shows how much time you are in a voice chat.
+
+A port of VCTimer by Rasync (for Powercord) to BetterDiscord

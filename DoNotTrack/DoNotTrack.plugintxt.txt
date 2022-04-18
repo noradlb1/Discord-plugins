@@ -1,0 +1,2 @@
+Stops Discord from tracking everything you do like Sentry and Analytics.
+

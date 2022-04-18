@@ -1,0 +1,3 @@
+Shows a Notification when a Friend or a User, you choose to observe, changes their Status
+
+Toast Notification:

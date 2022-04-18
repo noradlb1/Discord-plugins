@@ -1,0 +1,1 @@
+Adds an indicator to the channel and guild list when someone is typing there

@@ -1,0 +1,3 @@
+Allows you to translate Messages and your outgoing Messages within Discord
+
+Translate Message Option:

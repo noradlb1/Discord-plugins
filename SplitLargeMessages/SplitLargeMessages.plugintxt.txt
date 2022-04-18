@@ -1,0 +1,1 @@
+Allows you to enter larger Messages, which will automatically split into several smaller Messages

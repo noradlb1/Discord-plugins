@@ -1,0 +1,1 @@
+Allows you to view a user's permissions. Thanks to Noodlebox for the idea!

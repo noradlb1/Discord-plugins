@@ -1,0 +1,1 @@
+Displays the Last Message Date of a Member for the current Server/DM in the UserPopout and UserModal
